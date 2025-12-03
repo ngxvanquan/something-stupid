@@ -1,0 +1,13 @@
+nếu ban đầu bóng bị xẹp, nghĩa là không có khí bên trong và áp suất bằng với áp suất khí quyển V1=deltaV.n 
+nhưng nếu có khí bên trong, thì V1=deltaV.n + V
+
+khi đang bơm vào áp suất sẽ bằng áp suất của không khí được bơm vào (thường là áp suất khí quyển 10^5 pa), thể tích là số lần bơm nhân với mỗi lần bơm được bao nhiêu lít khí. Sau khi bơm xong đậy nắp lại thì tính chất của khí nó sẽ chiếm toàn bộ bình chứa nên lúc này thể tích của khi bằng thể tích của bình chứa. Lúc này ta có thể tìm được áp suất sau
+
+
+Khi xuống dưới chất lỏng, áp suất sẽ thay đổi theo độ sâu của mực chất lỏng được cho bởi công thức p=p0 + Dgh 
+trong đó: 
+ p0 là áp suất khí quyển (10^5 pa),
+ D là khối lượng riêng của chất lỏng,
+ g là gia tốc trong trường (9.8m/s^2),
+ h là độ sâu.
+Khi vật nổi lên mặt nươc h=0 nên p lúc này sẽ bằng p0
